@@ -1,1 +1,1 @@
-# rails_basics
+# ruby_basics
